@@ -1,17 +1,15 @@
 {
-  "name": "release-pnpm",
+  "name": "consultation",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "@semantic-release/changelog": "^6.0.3",
-    "semantic-release": "^23.0.8"
+  "dependencies": {
+    "react": "^18.3.1"
   }
 }
